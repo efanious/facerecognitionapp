@@ -6,6 +6,11 @@ A react app that uses machine learning to detect human faces in an image
 
 
 # Screenshots
+Main Screen           
+:-------------------------:
+![](screenshots/neymar.png) 
+
+
 
 ## Available Scripts
 
