@@ -1,5 +1,25 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Face Recognition
+A react app that uses machine learning to detect human faces in an image 
+
+
+
+# Screenshots
+Sample 1          
+:-------------------------:
+![](screenshots/neymar.png) 
+
+Sample 2          
+:-------------------------:
+![](screenshots/tomcruise.png) 
+
+Register         
+:-------------------------:
+![](screenshots/register.png) 
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
